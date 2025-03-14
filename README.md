@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there! I'm Mustafa, a passionate Flutter developer</h2>
+<h2 align="center">👋 Hey there! I'm Mustafa, a passionate Flutter developer</h2>
 
 ###
 <div align="center">
