@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am Currently learning 
+Hi there! I'm a passionate Flutter developer with a solid background in frontend development. I started my journey building responsive websites using HTML, CSS, and JavaScript, and later transitioned into mobile development, where I found my passion for creating beautiful, high-performance cross-platform apps using Flutter and Dart.
+
+🔧 I enjoy turning complex problems into simple, elegant solutions. Whether it's building pixel-perfect UIs or integrating APIs, I'm always looking to grow, learn, and build something meaningful.
 
 
 ## 🌐 Socials:
