@@ -24,7 +24,7 @@
 </div>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1FMCRTe2Qn/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m9stafa.3lbaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/mustafa-elbaz-725a6631a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@m9stafa05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/m9stafa05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m9stafa05@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/mustafa-elbaz-725a6631a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m9stafa05@gmail.com) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
